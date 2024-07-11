@@ -3,6 +3,3 @@
 
 [![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://anhsz.github.io/Vo-Ngoc-Huong/)
 
-
-
-- Front End - **HTML**, **CSS**, **JavaScript**
